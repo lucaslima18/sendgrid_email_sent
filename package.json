@@ -1,0 +1,17 @@
+{
+  "name": "sendgrid_email",
+  "version": "1.0.0",
+  "description": "an script for sending email using sendgrid api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "buffer": "node buff.js"
+  },
+  "author": "lucas amorim",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^6.5.5",
+    "sharp": "^0.25.2"
+  }
+}

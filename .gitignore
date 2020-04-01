@@ -1,0 +1,4 @@
+sendgrid.env
+/node_modules
+package-lock.json
+default.jpg
